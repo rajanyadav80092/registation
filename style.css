@@ -1,0 +1,34 @@
+*{
+    padding: 0%;
+    margin-left: 2px;
+
+}
+header{
+    text-align: center;
+    color: blueviolet;
+    background-color: bisque;
+    height: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+
+}
+p{
+    text-align: center;
+    background-color: brown;
+    color: aliceblue;
+    font-size: 18px;
+    
+}
+
+
+
+#user{
+    margin : 5px 0px 4px 5px;
+}
+#pass{
+    margin: 3px 0px 4px 5px;
+}
+a{
+  text-decoration: none;
+}
